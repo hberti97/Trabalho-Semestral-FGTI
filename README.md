@@ -1,17 +1,17 @@
 # CONTEXTO DO PRODUTO/PROJETO
 
-# Aplicativo de Entrega
+# Objetivo
 -O desenvolvimento de um aplicativo para ajudar empresas de entregas e entregadores, visando um gerenciamento do tempo de entrega e redução do consumo de combustível.
-Este aplicativo deverá ser abastecido com informações da localidade das entregas, onde o mesmo irá cruzar os dados de um número X de entregas calculando qual é a menor rota entre os pontos fornecido partindo e retornando ou não ao mesmo ponto, agilizando o planejamento do entregador e dando informações importantes a empresa fornecedora destas entregas e ao cliente que irá receber.
-Tratando de uma aplicação que irá funcionar de forma online se utilizando de informações vindas do GPS do Google, podendo ter informações aproximada da localidade do entregador e do tempo aproximado de sua chegada. Isso traria benefícios a empresa, pois poderão saber se estão dentro do prazo da sua organização da próxima leva de entregas ou não de forma muito mais solida sabendo quantas entregas e quanto tempo aproximadamente até o retorno do entregador.
-E o cliente que recebera a encomenda terá de forma mais exata a localização do seu produto, evitando problemas na entrega como por exemplo não estar em condições de receber o seu produto, podendo se planejar para receber sem causar atrasos ao entregador. 
-O aplicativo não se limita a apenas delivery de comida, abrangendo transportadoras no geral, pois com um sistema de organização das entregas pode se planejar todas as entregas no caso de transportadoras, que será feita naquele dia por seus entregadores!
+
+# Motivação
+- Com o elevado tempo de organização de rotas de entregas, alto cosumos de combustivel, criamos este aplicativo para reduzir o tempo com o planejamento de rotas facilitando para os gestores organizar de forma rapida e precisa cada movimento que o motorista irá realizar visando a economia de tempo e recursos, e pelo lado do cliente ele terá acesso a informações importantes como onde está sua mercadoria e quant otempo estará em sua residência, facilitando o planejamento para evitar atrasos para o entregador e agilizar a entrega.
 
 # Project Model Canvas
 
 <p align="center">
   <img width="505" alt="Captura de tela 2023-10-02 202139" src="https://github.com/hberti97/Trabalho-Semestral-FGTI/assets/102214439/84621e4a-2722-4dfa-90d0-6e237885e1ec">
 </p>
+Link para tabela de custos: https://fatecspgov-my.sharepoint.com/:x:/r/personal/luiz_berti_fatec_sp_gov_br/Documents/Book.xlsx?d=w7de5366f70244b6f86bbc01efbfe11b4&csf=1&web=1&e=N9lG9J&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0
 
 # Personas Mapeadas
 
@@ -27,5 +27,8 @@ José, entregador na empresa Entregas de Pedro
 
 Maria
 <p align="center">
-  <img width="287" alt="maria" src="https://github.com/hberti97/Trabalho-Semestral-FGTI/assets/102214439/4f0567cb-c02c-4dda-b46d-9c41810cd45e">
+  <img width="287" alt="maria" src="https://github.com/hberti97/Trabalho-Semestral-FGTI/assets/102214439/02b2c458-2e8a-4e9c-a597-2ddb7a3208bf">
 </p>
+
+
+
