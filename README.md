@@ -9,7 +9,7 @@
 # Project Model Canvas
 
 <p align="center">
-  <img width="505" alt="Captura de tela 2023-10-02 202139" src="https://github.com/hberti97/Trabalho-Semestral-FGTI/assets/102214439/84621e4a-2722-4dfa-90d0-6e237885e1ec">
+  <img width="505" alt="Captura de tela 2023-10-02 202139" src="https://github.com/hberti97/Trabalho-Semestral-FGTI/assets/102214439/e88a072f-25e8-4640-b545-68fbe2581af9">
 </p>
 Link para tabela de custos: https://fatecspgov-my.sharepoint.com/:x:/r/personal/luiz_berti_fatec_sp_gov_br/Documents/Book.xlsx?d=w7de5366f70244b6f86bbc01efbfe11b4&csf=1&web=1&e=N9lG9J&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0
 
