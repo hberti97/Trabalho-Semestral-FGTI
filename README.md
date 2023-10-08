@@ -1,7 +1,7 @@
 # CONTEXTO DO PRODUTO/PROJETO
 
 # Objetivo
--O desenvolvimento de um aplicativo para ajudar empresas de entregas e entregadores, visando um gerenciamento do tempo de entrega e redução do consumo de combustível.
+- O desenvolvimento de um aplicativo para ajudar empresas de entregas e entregadores, visando um gerenciamento do tempo de entrega e redução do consumo de combustível.
 
 # Motivação
 - Com o elevado tempo de organização de rotas de entregas, alto cosumos de combustivel, criamos este aplicativo para reduzir o tempo com o planejamento de rotas facilitando para os gestores organizar de forma rapida e precisa cada movimento que o motorista irá realizar visando a economia de tempo e recursos, e pelo lado do cliente ele terá acesso a informações importantes como onde está sua mercadoria e quant otempo estará em sua residência, facilitando o planejamento para evitar atrasos para o entregador e agilizar a entrega.
